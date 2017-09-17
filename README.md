@@ -6,7 +6,7 @@
 
 ### How to use
 1. Understand what is Lambda and how to use it: [Getting Started with AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
-2. Go through the architecture in the accompanying blog: <blog-link>
+2. Go through the architecture in the accompanying blog: [Leveraging AWS Lambda for Image Compression at scale](https://medium.com/squad-engineering/leveraging-aws-lambda-for-image-compression-at-scale-a01afd756a12)
 3. Deploy `orchestrator.py` and `image_compress.py` using AWS Lambda.
 4. Invoke the lambda for `orchestrator` with a payload like:
 ```json
