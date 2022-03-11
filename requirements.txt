@@ -6,7 +6,7 @@ docutils==0.14
 idna==2.6
 jmespath==0.9.3
 olefile==0.44
-Pillow==4.1.1
+Pillow==9.0.1
 python-dateutil==2.6.1
 requests==2.18.4
 s3transfer==0.1.10
